@@ -20,5 +20,5 @@ Email ID:
 <col width="100px">
 <col width="630px">
 <tr><td><b>2020:</b></td><td> Member, Phi Kappa Phi Honor Society </td></tr>
-<tr><td><b>Summer 2019:</b></td><td> Research Fellow, American Economic Association Summer Program (AEASP) </td></tr>
+<tr><td><b>2019:</b></td><td> Research Fellow, American Economic Association Summer Program (AEASP) </td></tr>
 <tr><td><b>2011:</b></td><td> Awardee, Dept. of Science and Technology INSPIRE scholarship for excellence among high schoolgraduates in India (declined) </td></tr>
