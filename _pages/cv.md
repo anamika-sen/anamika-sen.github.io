@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /assets/cv.pdf
+permalink: /assets/asen_cv.pdf
 order: 4
 ---
 
