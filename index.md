@@ -7,13 +7,13 @@ layout: page
 
 I am a PhD candidate in the [Department of Economics](https://www.umass.edu/economics/) at the [University of Massachusetts Amherst](https://www.umass.edu/). I will be on the job market during the 2022-2023 academic year.
 
-My research interests lie broads in the areas of Macroeconomics, International Finance, and the Economics of Gender.
+My research interests lie in the areas of Macroeconomics, International Finance, and the Economics of Gender.
 
 I have a masters degree in Economics from [Jawaharlal Nehru University](https://www.jnu.ac.in/) and a bachelors degree (with honours) in Economics
 from [Jadavpur University](http://www.jaduniv.edu.in/view_department.php?deptid=66) in India.
 
 Email ID: anamikasen@umass.edu
 
-My CV can be downloaded [here](https://www.peri.umass.edu/images/CV_Anamika_Sen.pdf)  .
+My CV can be downloaded [here](https://www.peri.umass.edu/images/CV_Anamika_Sen.pdf).
  
 
