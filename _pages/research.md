@@ -18,7 +18,7 @@ The Impact of Austerity on Gender Inequality in Time Allocation
 [Cui Bono: Do Open Source Software Incubator Policies and Procedures Benefit the Projects or the Incubator?](http://doi.org/10.5334/ijc.1176) <br>
 *Anamika Sen*, Curtis Atkisson, Charlie Schweik <br>
 **International Journal of the Commons (2022), 16(1)** <br>
-IASC Knowledge Commons Conference 2020 (<a style="color:red"><i>Runner Up, Best Student Presentation</i></a>)
+IASC Knowledge Commons Conference 2020 <a style="color:red"><i>(Runner Up, Best Student Presentation)</i></a>
 
 [A Study on Happiness and Related Factors Among Indian College Students](https://doi.org/10.1007/s40953-018-0125-8) (undergraduate thesis) <br>
 Bidisha Chakraborty, Souparna Maji, *Anamika Sen*, Isha Mallik, Sayantan Baidya, Esha Dwibedi <br>
