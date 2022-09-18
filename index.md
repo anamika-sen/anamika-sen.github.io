@@ -13,6 +13,7 @@ I have a masters degree in Economics from [Jawaharlal Nehru University](https://
 from [Jadavpur University](http://www.jaduniv.edu.in/view_department.php?deptid=66) in India.
 
 Email ID: anamikasen@umass.edu
-CV / Resume: [link](https://www.peri.umass.edu/images/CV_Anamika_Sen.pdf)  
+
+My CV can be downloaded [here](https://www.peri.umass.edu/images/CV_Anamika_Sen.pdf)  .
  
 
