@@ -8,13 +8,13 @@
 # Site settings
 title: Anamika Sen
 full_name: Anamika Sen
-email: 
+email: anamikasen@umass.edu
 email2: 
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anamika-sen.github.io" # the base hostname & protocol for your site
 github_username:  anamika-sen
-twitter_username: the_anamika
+twitter_username: anamika716
 linkedin_username: anamika-sen-35804775
 stackoverflow: 
 include: ['_pages']
