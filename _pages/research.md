@@ -13,16 +13,16 @@ The Impact of Austerity on Gender Inequality in Time Allocation
 
 [Shock Absorbers or Transmitters? The Role of Foreign Banks during COVID-19](https://www.imf.org/en/Publications/WP/Issues/2022/09/16/Shock-Absorbers-or-Transmitters-The-Role-of-Foreign-Banks-during-COVID-19-523563) <br>
 *Anamika Sen*, Weijia Yao, Juan Yépez <br>
-IMF Working Paper No. 2022/188
+**IMF Working Paper No. 2022/188**
 
 [Cui Bono: Do Open Source Software Incubator Policies and Procedures Benefit the Projects or the Incubator?](http://doi.org/10.5334/ijc.1176) <br>
 *Anamika Sen*, Curtis Atkisson, Charlie Schweik <br>
-International Journal of the Commons (2022), 16(1) <br>
-(*IASC Knowledge Commons Conference 2020*, <a style="color:red"><i>Runner Up, Best Student Presentation</i></a>)
+**International Journal of the Commons (2022), 16(1)** <br>
+IASC Knowledge Commons Conference 2020 (<a style="color:red"><i>Runner Up, Best Student Presentation</i></a>)
 
 [A Study on Happiness and Related Factors Among Indian College Students](https://doi.org/10.1007/s40953-018-0125-8) (undergraduate thesis) <br>
 Bidisha Chakraborty, Souparna Maji, *Anamika Sen*, Isha Mallik, Sayantan Baidya, Esha Dwibedi <br>
-Journal of Quantitative Economics (2019), 17(1) 
+**Journal of Quantitative Economics (2019), 17(1)** 
 
 ### **Working Papers**
 
