@@ -32,7 +32,7 @@ arXiv 2022
 
 ### **Works in Progress**
 Foreign Bank Entry and Credit Allocation <br>
-*(with Esra Ugurlu)*
+*(with Esra Uğurlu)*
 
 The mentors make the decisions: How people serving in dual roles of mentor and decision maker apply organizational policies to their own mentees <br>
 *(with Brenda Bushouse and Curtis Atkisson)*
