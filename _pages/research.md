@@ -7,7 +7,7 @@ order: 5
 
 ### **Job Market Paper**
 
-The Impact of Austerity on Gender Inequality in Time Allocation
+The Impact of Austerity on Gender Inequality in Time Allocation in the United States
 
 ### **Publications**
 
