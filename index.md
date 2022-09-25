@@ -9,7 +9,7 @@ I am a PhD candidate in the [Department of Economics](https://www.umass.edu/econ
 
 My research interests lie in the areas of Macroeconomics, International Finance, and the Economics of Gender.
 
-I have a masters degree in Economics from [Jawaharlal Nehru University](https://www.jnu.ac.in/) and a bachelors degree (with honours) in Economics
+I have a masters degree in Economics from [Jawaharlal Nehru University](https://www.jnu.ac.in/) and a bachelors degree (with honors) in Economics
 from [Jadavpur University](http://www.jaduniv.edu.in/view_department.php?deptid=66) in India.
 
 Email ID: [anamikasen@umass.edu](mailto:anamikasen@umass.edu) <br>
