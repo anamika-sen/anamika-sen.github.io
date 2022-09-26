@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /assets/asen_cv.pdf
+permalink: /assets/CV_AnamikaSen.pdf
 order: 4
 ---
 
