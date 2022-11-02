@@ -12,10 +12,6 @@ order: 5
 
 ### **Publications**
 
-[Shock Absorbers or Transmitters? The Role of Foreign Banks during COVID-19](https://www.imf.org/en/Publications/WP/Issues/2022/09/16/Shock-Absorbers-or-Transmitters-The-Role-of-Foreign-Banks-during-COVID-19-523563) <br>
-*Anamika Sen*, Weijia Yao, Juan Yépez <br>
-**IMF Working Paper No. 2022/188**
-
 [Cui Bono: Do Open Source Software Incubator Policies and Procedures Benefit the Projects or the Incubator?](http://doi.org/10.5334/ijc.1176) <br>
 *Anamika Sen*, Curtis Atkisson, Charlie Schweik <br>
 **International Journal of the Commons (2022), 16(1)** <br>
@@ -27,9 +23,13 @@ Bidisha Chakraborty, Souparna Maji, *Anamika Sen*, Isha Mallik, Sayantan Baidya,
 
 ### **Working Papers**
 
+[Shock Absorbers or Transmitters? The Role of Foreign Banks during COVID-19](https://www.imf.org/en/Publications/WP/Issues/2022/09/16/Shock-Absorbers-or-Transmitters-The-Role-of-Foreign-Banks-during-COVID-19-523563) <br>
+*Anamika Sen*, Weijia Yao, Juan Yépez <br>
+**IMF Working Paper No. 2022/188**
+
 [Deconstructing written rules and hierarchy in peer produced software communities](https://doi.org/10.48550/arXiv.2206.07992) <br>
 Mahasweta Chakraborti, Beril Bulat, Qiankun Zhong, *Anamika Sen*, Seth Frey <br>
-arXiv 2022
+**arXiv 2022**
 
 ### **Works in Progress**
 Foreign Bank Entry and Credit Allocation <br>
