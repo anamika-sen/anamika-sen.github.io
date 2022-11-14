@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 38%; padding: 6px;" src=" {{ site.url }}/assets/Photo%20(edited).JPG">
+<img style="float: right; width: 40%; padding: 6px;" src=" {{ site.url }}/assets/Photo%20(edited).JPG">
 
 <p align="justify"> I am a PhD candidate in the <a href="https://www.umass.edu/economics/">Department of Economics</a> at the <a href="https://www.umass.edu/">University of Massachusetts Amherst</a>. I will be on the job market during the 2022-2023 academic year. <br><br>
 
