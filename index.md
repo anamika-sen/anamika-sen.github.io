@@ -5,19 +5,18 @@ layout: page
 
 <img style="float: right; width: 40%; padding: 6px;" src=" {{ site.url }}/assets/Photo%20(edited).JPG">
 
-<p align="justify"> I am a PhD candidate in the [Department of Economics](https://www.umass.edu/economics/) at the [University of Massachusetts Amherst](https://www.umass.edu/). I will be on the job market during the 2022-2023 academic year.
+<p align="justify"> I am a PhD candidate in the <a href="https://www.umass.edu/economics/">Department of Economics</a> at the <a href="https://www.umass.edu/">University of Massachusetts Amherst</a>. I will be on the job market during the 2022-2023 academic year.
 
 My research interests lie in the areas of Macroeconomics, International Finance, and the Economics of Gender.
 
-I have a masters degree in Economics from [Jawaharlal Nehru University](https://www.jnu.ac.in/) and a bachelors degree (with honors) in Economics
-from [Jadavpur University](http://www.jaduniv.edu.in/view_department.php?deptid=66) in India.
+I have a masters degree in Economics from <a href="https://www.jnu.ac.in/">Jawaharlal Nehru University</a> and a bachelors degree (with honors) in Economics from <a href="http://www.jaduniv.edu.in/view_department.php?deptid=66">Jadavpur University</a> in India.
 
-Email ID: [anamikasen@umass.edu](mailto:anamikasen@umass.edu) <br>
-My CV can be downloaded [here]({{ site.url }}/assets/CV_AnamikaSen.pdf). 
+Email ID: <a href="mailto:anamikasen@umass.edu">anamikasen@umass.edu</a> <br>
+My CV can be downloaded <a href="https://anamika-sen.github.io/assets/CV_AnamikaSen.pdf">here</a>. 
 
 
 **My research in a nutshell:** <br>
-My current research can be divided into two main streams. The first looks at the impact of macroeconomic policies on gender equality. My [job market paper]({{ site.url }}/assets/The%20Impact%20of%20Austerity%20on%20Gender%20Inequality%20in%20Time%20Allocation%20in%20the%20United%20States.pdf) investigates whether cutbacks in public spending impact men and women differently.
+My current research can be divided into two main streams. The first looks at the impact of macroeconomic policies on gender equality. My <a href="https://anamika-sen.github.io/assets/The%20Impact%20of%20Austerity%20on%20Gender%20Inequality%20in%20Time%20Allocation%20in%20the%20United%20States.pdf">job market paper</a> investigates whether cutbacks in public spending impact men and women differently.
 
 The second stream of my research analyzes the connections between bank ownership and lending behavior. I have two ongoing joint projects that study various aspects of bank lending decisions.
 
