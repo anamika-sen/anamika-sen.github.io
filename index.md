@@ -16,9 +16,9 @@ My CV can be downloaded <a href="https://anamika-sen.github.io/assets/CV_Anamika
 
 
 <strong>My research in a nutshell:</strong> <br>
-My current research can be divided into two main streams. The first looks at the impact of macroeconomic policies on gender equality. My <a href="https://anamika-sen.github.io/assets/The%20Impact%20of%20Austerity%20on%20Gender%20Inequality%20in%20Time%20Allocation%20in%20the%20United%20States.pdf">job market paper</a> investigates whether cutbacks in public spending impact men and women differently. <br><br>
+My current research can be divided into two main streams. The first looks at the impact of macroeconomic policies on gender equality. My <a href="https://anamika-sen.github.io/assets/The%20Impact%20of%20Austerity%20on%20Gender%20Inequality%20in%20Time%20Allocation%20in%20the%20United%20States.pdf">job market paper</a> investigates whether cutbacks in public spending impact men and women differently. <br>
 
-The second stream of my research analyzes the connections between bank ownership and lending behavior. I have two ongoing joint projects that study various aspects of bank lending decisions. <br><br>
+The second stream of my research analyzes the connections between bank ownership and lending behavior. I have two ongoing joint projects that study various aspects of bank lending decisions. <br>
 
 I am also part of an interdisciplinary team that is examining the social, technical, and institutional factors that contribute to the sustainability of open-source software. Currently, I am collaborating on two projects that look at how incubator programs influence the governance of open-source software projects. </p>
  
