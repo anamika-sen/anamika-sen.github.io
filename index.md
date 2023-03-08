@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 40%; padding: 6px;" src=" {{ site.url }}/assets/Photo%20(edited).JPG">
 
-<p align="justify"> I am a PhD candidate in the <a href="https://www.umass.edu/economics/">Department of Economics</a> at the <a href="https://www.umass.edu/">University of Massachusetts Amherst</a>. I will be on the job market during the 2022-2023 academic year. <br><br>
+<p align="justify"> I am a PhD candidate in the <a href="https://www.umass.edu/economics/">Department of Economics</a> at the <a href="https://www.umass.edu/">University of Massachusetts Amherst</a>. I will be joining <a href="https://www.bates.edu/economics/">Bates College</a> as an Assistant Professor of Economics in Fall 2023. <br><br>
 
 My research interests lie in the areas of Macroeconomics, International Finance, and the Economics of Gender. <br><br>
 
