@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 40%; padding: 6px;" src=" {{ site.url }}/assets/Photo%20(edited).JPG">
 
-<p align="justify"> I am an Assistant Professor of Economics at <a href="https://www.bates.edu/economics/">Bates College</a>. I recently received my PhD from the <a href="https://www.umass.edu/economics/">Department of Economics</a> at the <a href="https://www.umass.edu/">University of Massachusetts Amherst</a>. <br><br>
+<p align="justify"> I am an Assistant Professor of Economics at <a href="https://www.bates.edu/economics/">Bates College</a>. I received my PhD from the <a href="https://www.umass.edu/economics/">Department of Economics</a> at the <a href="https://www.umass.edu/">University of Massachusetts Amherst</a>. <br><br>
 
 My research interests lie in the areas of Macroeconomics, International Finance, and the Economics of Gender. <br><br>
 
