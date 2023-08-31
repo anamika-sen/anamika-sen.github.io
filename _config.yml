@@ -8,8 +8,7 @@
 # Site settings
 title: Anamika Sen
 full_name: Anamika Sen
-address: 120 Gordon Hall <br> 418 North Pleasant St. <br> Amherst, MA 01002
-email: anamikasen@umass.edu 
+email: asen@bates.edu 
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anamika-sen.github.io" # the base hostname & protocol for your site
