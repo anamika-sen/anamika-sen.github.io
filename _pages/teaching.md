@@ -24,4 +24,4 @@ Introduction to Macroeconomics
 ### **Other Teaching & Mentoring**
 Research Fellow, [American Economic Association Summer Program (AEASP)](https://www.aeaweb.org/about-aea/committees/aeasp)
 
-Graduate Assistant, [Economics Undergraduate Research Assistantship (EURA) Program](https://www.umass.edu/economics/undergraduate/opportunities/economics-undergraduate-research-assistantships-eura)
+Graduate Assistant, [Economics Undergraduate Research Assistantship (EURA) Program](https://www.umass.edu/economics/academics/undergraduate/opportunities/assistantship)
