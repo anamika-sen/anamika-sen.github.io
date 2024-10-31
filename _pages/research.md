@@ -16,7 +16,7 @@ Bidisha Chakraborty, Souparna Maji, *Anamika Sen*, Isha Mallik, Sayantan Baidya,
 **Journal of Quantitative Economics (2019), 17(1)** 
 
 ### **Working Papers**
-[The Impact of Austerity on Gender Inequality in Time Allocation in the United States](https://equitablegrowth.org/working-papers/the-impact-of-austerity-on-gender-inequality-in-time-allocation-in-the-united-states/) <be>
+[The Impact of Austerity on Gender Inequality in Time Allocation in the United States](https://equitablegrowth.org/working-papers/the-impact-of-austerity-on-gender-inequality-in-time-allocation-in-the-united-states/) <br>
 *Anamika Sen* <br>
 **Washington Center for Equitable Growth Working Paper Series 2023**
 
