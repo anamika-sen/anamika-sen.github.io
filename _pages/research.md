@@ -4,12 +4,6 @@ title: Research
 permalink: /research/
 order: 5
 ---
-
-### **Job Market Paper**
-<a href="https://anamika-sen.github.io/assets/The%20Impact%20of%20Austerity%20on%20Gender%20Inequality%20in%20Time%20Allocation%20in%20the%20United%20States.pdf">The Impact of Austerity on Gender Inequality in Time Allocation in the United States </a>
-
-<p align="justify"> <strong> Summary:</strong> The Great Recession of 2007-2009 caused large declines in state revenues which prompted many states to implement austerity measures to meet their balanced budget requirements. Decreases in public spending can have heterogeneous gender effects due to existing inequalities in time allocated for unpaid work. In this paper, I combine data from the American Time Use Survey for 2005-2015 and the State and Local Expenditures database to investigate the relationship between decreases in state education spending and time spent on child care. My analysis utilizes an event study approach to compare changes in time allocated for childcare activities by adults residing in states with and without spending reductions on K-12 and early education programs. Prior to the decreases in education spending, I find that time spent on childcare activities across austerity and non-austerity states trended similarly. However, in the years following the spending cuts, residents of austerity states were spending more time on child care relative to residents of non-austerity states. The increase in child care in austerity states was unevenly distributed across genders. Men were allocating 1.8 additional hours weekly while women were allocating 3 additional hours weekly to child care. I further document long-lasting implications for gender equality: effects on the gender gap in childcare time persist even six years after the initial reduction in education spending. My findings suggest the need for gender budgeting at all stages of the fiscal budget cycle so that governments can pursue both economic and social goals even during times of crisis. </p>
-
 ### **Publications**
 
 [Cui Bono: Do Open Source Software Incubator Policies and Procedures Benefit the Projects or the Incubator?](http://doi.org/10.5334/ijc.1176) <br>
@@ -22,6 +16,9 @@ Bidisha Chakraborty, Souparna Maji, *Anamika Sen*, Isha Mallik, Sayantan Baidya,
 **Journal of Quantitative Economics (2019), 17(1)** 
 
 ### **Working Papers**
+[The Impact of Austerity on Gender Inequality in Time Allocation in the United States](https://equitablegrowth.org/working-papers/the-impact-of-austerity-on-gender-inequality-in-time-allocation-in-the-united-states/) <be>
+*Anamika Sen* <br>
+**Washington Center for Equitable Growth Working Paper Series 2023**
 
 [Shock Absorbers or Transmitters? The Role of Foreign Banks during COVID-19](https://www.imf.org/en/Publications/WP/Issues/2022/09/16/Shock-Absorbers-or-Transmitters-The-Role-of-Foreign-Banks-during-COVID-19-523563) <br>
 *Anamika Sen*, Weijia Yao, Juan Yépez <br>
@@ -32,8 +29,11 @@ Mahasweta Chakraborti, Beril Bulat, Qiankun Zhong, *Anamika Sen*, Seth Frey <br>
 **arXiv 2022**
 
 ### **Works in Progress**
+Direct rental assistance and the housing market: Evidence from a small urban environment <br>
+*(with Kyle Coombs)*
+
 Foreign Bank Entry and Credit Allocation <br>
 *(with Esra Uğurlu)*
 
 The mentors make the decisions: How people serving in dual roles of mentor and decision maker apply organizational policies to their own mentees <br>
-*(with Brenda Bushouse and Curtis Atkisson)*
+*(with Brenda Bushouse, Curtis Atkisson and Zackary Dunivin)*
