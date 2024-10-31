@@ -6,22 +6,22 @@ order: 5
 ---
 
 ### **Instructor**
-Introduction to Microeconomics (online course) <br>
-Summer 2022
+**Bates College** <br>
+Intermediate Macroeconomic Theory [[syllabus]]({{ site.url }}/assets/ECON_270_Syllabus.pdf)
 
-Graduate Econometrics camp <br>
-Winter 2020
+Senior Thesis Seminar [[syllabus]]({{ site.url }}/assets/ECON_456_Syllabus.pdf)
+
+**University of Massachusetts Amherst** <br>
+Introduction to Microeconomics (online course)
+
+Graduate Econometrics camp
 
 ### **Teaching Assistant**
-Introduction to Microeconomics <br>
-Fall 2017, Spring 2018
+Introduction to Microeconomics
 
-Introduction to Macroeconomics <br>
-Spring 2018
+Introduction to Macroeconomics
 
 ### **Other Teaching & Mentoring**
-Research Fellow, [American Economic Association Summer Program (AEASP)](https://www.aeaweb.org/about-aea/committees/aeasp) <br>
-Summer 2019
+Research Fellow, [American Economic Association Summer Program (AEASP)](https://www.aeaweb.org/about-aea/committees/aeasp)
 
-Graduate Assistant, [Economics Undergraduate Research Assistantship (EURA) Program](https://www.umass.edu/economics/undergraduate/opportunities/economics-undergraduate-research-assistantships-eura) <br>
-Spring 2019
+Graduate Assistant, [Economics Undergraduate Research Assistantship (EURA) Program](https://www.umass.edu/economics/undergraduate/opportunities/economics-undergraduate-research-assistantships-eura)
