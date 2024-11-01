@@ -18,5 +18,5 @@ My current research can be divided into two main streams. The first looks at the
 
 The second stream of my research analyzes the connections between bank ownership and lending behavior. I have two ongoing projects that study various aspects of bank lending decisions. <br><br>
 
-I was previously part of an interdisciplinary team funded by an NSF Growing Convergence Research (GCR) grant to study the sustainability of open source software. A few of my current projects build on this ongoing collaboration.
+I was part of an interdisciplinary team funded by an NSF Growing Convergence Research (GCR) grant to study the sustainability of open source software. A few of my current projects build on this ongoing collaboration.
 </p>
