@@ -32,7 +32,7 @@ Mahasweta Chakraborti, Beril Bulat, Qiankun Zhong, *Anamika Sen*, Seth Frey <br>
 Direct rental assistance and the housing market: Evidence from a small urban environment <br>
 *(with Kyle Coombs)*
 
-Foreign Bank Entry and Credit Allocation <br>
+Financial Liberalization and Household Credit <br>
 *(with Esra Uğurlu)*
 
 The mentors make the decisions: How people serving in dual roles of mentor and decision maker apply organizational policies to their own mentees <br>
