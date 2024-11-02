@@ -19,7 +19,7 @@ Bidisha Chakraborty, Souparna Maji, *Anamika Sen*, Isha Mallik, Sayantan Baidya,
 [The Impact of Austerity on Gender Inequality in Time Allocation in the United States](https://equitablegrowth.org/working-papers/the-impact-of-austerity-on-gender-inequality-in-time-allocation-in-the-united-states/) <br>
 *Anamika Sen* <br>
 **Washington Center for Equitable Growth Working Paper Series 2023** <br>
-Media Coverage: Early Learning Nation
+Media Coverage: [Early Learning Nation](https://x.com/EarlyLearnNatn/status/1689354106958155777)
 
 [Shock Absorbers or Transmitters? The Role of Foreign Banks during COVID-19](https://www.imf.org/en/Publications/WP/Issues/2022/09/16/Shock-Absorbers-or-Transmitters-The-Role-of-Foreign-Banks-during-COVID-19-523563) <br>
 *Anamika Sen*, Weijia Yao, Juan Yépez <br>
