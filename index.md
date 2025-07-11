@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 40%; padding: 6px;" src=" {{ site.url }}/assets/Headshot.jpg">
+<img style="float: right; width: 50%; padding: 6px;" src=" {{ site.url }}/assets/Headshot.jpg">
 
 <p align="justify"> I am an Assistant Professor of Economics at <a href="https://www.bates.edu/economics/">Bates College</a>. I received my PhD from the <a href="https://www.umass.edu/economics/">Department of Economics</a> at the <a href="https://www.umass.edu/">University of Massachusetts Amherst</a>. <br><br>
 
