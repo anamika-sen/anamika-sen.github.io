@@ -7,12 +7,12 @@ order: 5
 
 ### **Instructor**
 **Bates College** <br>
-Finance & Society [syllabus]({{ site.url }}/assets/ECON_344_Syllabus.pdf) <br>
-[Bates coverage](https://www.bates.edu/harward/2025/06/29/community-capital/)
+Finance & Society [[syllabus]]({{ site.url }}/assets/ECON_344_Syllabus.pdf) <br>
+[Bates Coverage](https://www.bates.edu/harward/2025/06/29/community-capital/)
 
-Intermediate Macroeconomic Theory [syllabus]({{ site.url }}/assets/ECON_270_Syllabus.pdf)
+Intermediate Macroeconomic Theory [[syllabus]]({{ site.url }}/assets/ECON_270_Syllabus.pdf)
 
-Senior Thesis Seminar [syllabus]({{ site.url }}/assets/ECON_456_Syllabus.pdf)
+Senior Thesis Seminar [[syllabus]]({{ site.url }}/assets/ECON_456_Syllabus.pdf)
 
 **University of Massachusetts Amherst** <br>
 Introduction to Microeconomics (online course)
