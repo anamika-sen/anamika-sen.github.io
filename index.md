@@ -14,5 +14,5 @@ I have a masters degree in Economics from <a href="https://www.jnu.ac.in/">Jawah
 <strong>My research in a nutshell:</strong> <br>
 My current research can be divided into two streams. The first looks at the gendered effects of macroeconomic policies. The second stream of my research analyzes the heterogeneous effects of economic and policy shocks on bank lending behavior. <br><br>
 
-I was part of an interdisciplinary team funded by an NSF Growing Convergence Research (GCR) grant to study the sustainability of open source software. A few of my current projects build on this ongoing collaboration.
+I was part of an interdisciplinary team funded by an NSF Growing Convergence Research (GCR) grant to study the sustainability of open source software. A few of my current projects build on this collaboration.
 </p>
