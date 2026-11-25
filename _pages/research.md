@@ -11,12 +11,16 @@ order: 5
 **International Journal of the Commons (2022), 16(1)** <br>
 IASC Knowledge Commons Conference 2020 <a style="color:red"><i>(Runner Up, Best Student Presentation)</i></a>
 
-[A Study on Happiness and Related Factors Among Indian College Students](https://doi.org/10.1007/s40953-018-0125-8) (undergraduate thesis) <br>
-Bidisha Chakraborty, Souparna Maji, *Anamika Sen*, Isha Mallik, Sayantan Baidya, Esha Dwibedi <br>
-**Journal of Quantitative Economics (2019), 17(1)** 
-
 ### **Working Papers**
-[Credit Liberalization and the Shift to Household Lending](https://dx.doi.org/10.2139/ssrn.5316110) <br>
+[When Falling Labor Demand Raises Fertility: The Role of Women’s Labor Market Attachment](https://dx.doi.org/10.2139/ssrn.6675581) -- *under review* <br>
+Mateo Hoyos, *Anamika Sen*, Cynthia Ramos <br>
+**SSRN Working Paper (2026)**
+
+[Are All Low-Wage Workers Alike? Heterogeneity in the Post-Pandemic U.S. Labor Market](https://dx.doi.org/10.2139/ssrn.6159228) <br>
+Caterina Manicardi, Aritra Basu, *Anamika Sen* <br>
+**SSRN Working Paper (2026)**
+
+[Credit Liberalization and the Shift to Household Lending](https://dx.doi.org/10.2139/ssrn.5316110) -- *under review* <br>
 *Anamika Sen*, Esra Ugurlu <br>
 **Leeds University Business School Working Paper (2025)**
 
@@ -34,14 +38,12 @@ Mahasweta Chakraborti, Beril Bulat, Qiankun Zhong, *Anamika Sen*, Seth Frey <br>
 **arXiv (2022)**
 
 ### **Works in Progress**
-Gendered Labor Market Shocks and Fertility in Mexico: Evidence from Import Competition <br>
-*(with Mateo Hoyos and Cynthia Ramos)*
+Public deficits, bank portfolios, and private credit: Evidence from Brazil <br>
+*(with Daniel Riera-Crichton)*
 
-Wage Compression and Care Work in the Post-Pandemic Labor Market <br>
-*(with Aritra Basu and Caterina Manicardi)*
+Where is Grandmother’s House? Heterogeneity in Utilization of Grandparental Child Care in the U.S. <br>
+*(with Nancy Folbre, Aritra Basu, and Caterina Manicardi)* 
 
 Direct rental assistance and the housing market: Evidence from a small urban environment <br>
-*(with Kyle Coombs)*
-
-The mentors make the decisions: How people serving in dual roles of mentor and decision maker apply organizational policies to their own mentees <br>
-*(with Curtis Atkisson, Brenda Bushouse, and Zackary Dunivin)*
+*(with Kyle Coombs)* <br>
+Media Coverage: [Sun Journal](https://www.sunjournal.com/2026/07/01/lewiston-to-launch-first-in-the-nation-program-giving-rent-aid-directly-to-tenants/)
